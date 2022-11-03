@@ -1,6 +1,6 @@
 # Background
 
-This repo contains work for final project for the course CSCI 5707 Database Management Systems.
+This repo contains work for the final project for the course CSCI 5707 Database Management Systems.
 
 # Timeline
 
